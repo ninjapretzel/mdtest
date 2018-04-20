@@ -60,3 +60,25 @@ markdown
 implementations
 
 # there is no standard for markdown.
+
+```
+codeblocks are pretty standard.
+```
+
+`so are inline codeblocks`
+
+```csharp
+namespace SomeMarkdownLetsYou {
+    public class SyntaxhighlightInCodeBlocks { }
+}
+```
+
+others dont.
+
+oh yeah here's some other interesting stuff
+
+{noformat}
+this is how you do codeblocks in jira
+{noformat}
+
+{{and this is an inline codeblock in jira}}
